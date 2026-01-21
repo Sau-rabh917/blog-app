@@ -1,0 +1,8 @@
+{
+  "title": "Test Blog",
+  "category": ["TEST"],
+  "description": "Test blog description",
+  "coverImage": "https://example.com/image.jpg",
+  "content": "Test content here",
+  "date": "2026-01-20T00:00:00Z"
+}
